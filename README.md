@@ -1,4 +1,3 @@
-readme_content = """\
 # 🏠 Bengaluru House Price Prediction
 
 ## 📌 Overview
