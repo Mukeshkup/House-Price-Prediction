@@ -5,9 +5,13 @@ This project aims to predict house prices in Bengaluru using machine learning te
 
 ## 📂 Project Structure
 ├── Bengaluru_House_Data.csv    # Raw dataset
+
 ├── cleaned_data.csv            # Preprocessed dataset
+
 ├── house_price.ipynb           # Jupyter Notebook for model training
+
 ├── RidgeModel.pkl              # Saved Ridge Regression Model
+
 ├── RidgeModelTuned.pkl         # Tuned Ridge Regression Model
 
 
