@@ -31,7 +31,7 @@ This project aims to predict house prices in Bengaluru using machine learning te
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mukeshkup/house-price-prediction.git
+   https://github.com/Mukeshkup/House-Price-Prediction.git
 2. Install dependencies:
     ```bash
     pip install -r requirements.txt
